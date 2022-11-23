@@ -2,7 +2,7 @@
 <!-- <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"  width="500" height="400"/> -->
 
 <h1> Adeep Hande</h1>
-<i><b> I am an incoming Masters in Data Science Grad student at Luddy School of Informatics, Computing, and Engineering, Indiana University Bloomington </b></i>
+<i><b> I am a Masters in Data Science Grad student at Luddy School of Informatics, Computing, and Engineering, Indiana University Bloomington </b></i>
 <BR>
   <!-- Actual text -->
 
